@@ -1,0 +1,47 @@
+[
+    {
+        "id": "632f110d44f115da6709bce2",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "name": "Banana",
+        "gender": "female",
+        "email": "lilyrandall@maximind.com",
+        "phone": "+1 (803) 431-2890"
+    },
+    {
+        "id": "632f110dde0669045353ecdf",
+        "picture": "http://placehold.it/32x32",
+        "age": 31,
+        "name": "Mango",
+        "gender": "female",
+        "email": "irisoneal@maximind.com",
+        "phone": "+1 (966) 539-3386"
+    },
+    {
+        "id": "632f110dde335180c748c410",
+        "picture": "http://placehold.it/32x32",
+        "age": 37,
+        "name": "Apple",
+        "gender": "male",
+        "email": "caingutierrez@maximind.com",
+        "phone": "+1 (982) 589-3719"
+    },
+    {
+        "id": "632f110d05accdda73a2f887",
+        "picture": "http://placehold.it/32x32",
+        "age": 38,
+        "name": "Orange",
+        "gender": "male",
+        "email": "prattrice@maximind.com",
+        "phone": "+1 (924) 455-2877"
+    },
+    {
+        "id": "632f110dc51a43dd8237bdd4",
+        "picture": "http://placehold.it/32x32",
+        "age": 25,
+        "name": "Malta",
+        "gender": "female",
+        "email": "heleneobrien@maximind.com",
+        "phone": "+1 (956) 595-2885"
+    }
+]
